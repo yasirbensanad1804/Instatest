@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Instatest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">home</string>
+    <string name="explore">explore</string>
+    <string name="post">post</string>
+    <string name="activity">activity</string>
+    <string name="account">account</string>
+</resources>
